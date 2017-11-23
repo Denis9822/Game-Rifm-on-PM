@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0d44af45cfef094449591f1b682a6d6c
+timeCreated: 1509737382
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Circe
+  fontNames:
+  - Circe
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

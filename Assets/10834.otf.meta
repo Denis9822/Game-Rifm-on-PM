@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6a3dd99efaa52b84f9ab0418345fe25f
+timeCreated: 1509737326
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cadillac Sans
+  fontNames:
+  - Cadillac Sans
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

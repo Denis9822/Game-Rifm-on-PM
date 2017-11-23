@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ae4278b3848e05a4f9e33ce51385a441
+timeCreated: 1509735453
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Product Sans(RUS BY LYAJKA)
+  fontNames:
+  - Product Sans(RUS BY LYAJKA)
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
